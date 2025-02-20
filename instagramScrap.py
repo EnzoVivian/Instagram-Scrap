@@ -11,7 +11,7 @@ import re
 
 load_dotenv()
 
-USERNAME = os.getenv('USUARIO')
+USERNAME = os.getenv('USERNAME')
 PASSWORD = os.getenv('PASSWORD')
 
 def navigator_initializer():
